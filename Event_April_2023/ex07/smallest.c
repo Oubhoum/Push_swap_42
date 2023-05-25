@@ -1,0 +1,1 @@
+int main(int c,char**v){return c^3?0&puts(""):printf("%s\n%s\n",*++v,*++v),2;}
